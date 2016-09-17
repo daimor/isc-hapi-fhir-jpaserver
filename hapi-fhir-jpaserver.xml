@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Context docBase="/var/lib/hapi/hapi-fhir-jpaserver.war" path="" reloadable="true"  debug="0" privileged="true" allowLinking="true" crossContext="true">
+    <Environment name="hapi-fhir-jpaserver/home" type="java.lang.String" value="/usr/local/tomcat/webapps/hapi-fhir-jpaserver" override="true" />
+</Context>
